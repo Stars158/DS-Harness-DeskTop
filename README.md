@@ -82,6 +82,12 @@ dsh web: http://127.0.0.1:3080/?token=xxxx
 - **隐私**：此库只含代码与图标，**不包含**你的 API Key / token / `~/.dsh` 数据；那些都在本机，不入库。请勿把 `~/.dsh` commit 进仓库。
 - 本工程面向“干净自托管”的本地 dsh web；它与官方云计算版 / DS Harness 电脑版是不同账号体系，本工程**不会**连那套云服务。
 
+### 赞助我
+如果这个项目对你有帮助，请支持一下孩子，帮助孩子喂养自己大肥鱼。
+
+<img src="assets/WePay.jpg" width="200" alt="微信赞赏码" />
+<img src="images/AliPay.jpg" width="200" alt="支付宝赞赏码" />
+
 ---
 
 ## License
