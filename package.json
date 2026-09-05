@@ -1,0 +1,14 @@
+{
+  "name": "dsh-desktop",
+  "version": "0.1.0",
+  "description": "Clean native-window client for the local DeepSeek Harness web (dsh web): spawns dsh web, opens the token-embedded URL in its own window. No browser tab, no cloud account, no marketplace/upsell.",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron . 2>nul || (echo Install Electron first && exit /b 1)",
+    "setup": "powershell -NoProfile -ExecutionPolicy Bypass -File setup.ps1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
