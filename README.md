@@ -86,7 +86,7 @@ dsh web: http://127.0.0.1:3080/?token=xxxx
 如果这个项目对你有帮助，请支持一下孩子，帮助孩子喂养自己大肥鱼。
 
 <img src="assets/WePay.jpg" width="200" alt="微信赞赏码" />
-<img src="images/AliPay.jpg" width="200" alt="支付宝赞赏码" />
+<img src="assets/AliPay.jpg" width="200" alt="支付宝赞赏码" />
 
 ---
 
